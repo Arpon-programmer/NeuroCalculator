@@ -19,7 +19,7 @@ NeuroCalculator is a simple neural network model designed to perform basic addit
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/NeuroCalculator.git
+    git clone https://github.com/Arpon-programmer/NeuroCalculator.git
     cd NeuroCalculator
     ```
 
