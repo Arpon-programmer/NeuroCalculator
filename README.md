@@ -4,6 +4,7 @@ NeuroCalculator is a simple neural network model designed to perform basic addit
 
 ## Features
 
+- Great accuracy on a very small dataset.
 - Accepts two single-digit numbers as input.
 - Trains a neural network to predict the sum of the inputs.
 - Demonstrates the use of deep learning for basic arithmetic tasks.
