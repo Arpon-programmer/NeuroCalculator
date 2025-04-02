@@ -1,6 +1,6 @@
 # NeuroCalculator
 
-NeuroCalculator is a simple neural network model designed to perform basic addition operations. It takes two numbers (each less than 10) as input and predicts their sum.
+NeuroCalculator is a simple neural network model designed to perform basic addition operations. It takes two numbers as input and predicts their sum.
 
 ## Features
 
