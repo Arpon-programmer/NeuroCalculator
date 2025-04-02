@@ -1,2 +1,5 @@
 torch
 pandas
+torchinfo
+tqdm
+sklearn
